@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "937d035d-6847-47f4-b91e-7dd3de85860a": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-0275186106a/download",
+      "duration": 0,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-06T20:15:51.785Z",
+  "created_by": "AngelicaAmezcua",
+  "label": "Línea Abierta; Mariachi Mujer 2000",
+  "updated_at": "2026-03-06T20:15:51.785Z",
+  "updated_by": "AngelicaAmezcua",
+  "rights_statement": ""
+}
