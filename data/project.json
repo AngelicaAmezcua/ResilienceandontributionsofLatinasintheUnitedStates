@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "AngelicaAmezcua",
+    "is_private": false,
+    "title": "Latinas’ resilience, contributions to the United States, and role in the Latino community ",
+    "description": "In this activity, we will explore key moments where Latinas led movements, shaped policy, and inspired change—from creating an all-female mariachi ensemble to fighting for equal pay. Additionally, these activities will highlight the resilience of Latinas over the past 30 years.\n",
+    "language": "en",
+    "slug": "ResilienceandontributionsofLatinasintheUnitedStates",
+    "creator": "AngelicaAmezcua",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-03-06T19:16:06.873Z",
+    "updated_at": "2026-03-06T19:16:06.873Z"
   }
 }
