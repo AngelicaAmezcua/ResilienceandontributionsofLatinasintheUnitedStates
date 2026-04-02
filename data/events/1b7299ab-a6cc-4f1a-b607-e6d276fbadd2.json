@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "9e0bd21d-9119-4077-bfd7-419d0540e42e": {
+      "label": "A Day Without a Woman",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://americanarchive.org/catalog/cpb-aacip-c680e5e289b",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "A Day Without a Woman",
+  "av_file_order": [
+    "9e0bd21d-9119-4077-bfd7-419d0540e42e"
+  ],
+  "created_at": "2026-04-02T22:14:17.923Z",
+  "created_by": "AngelicaAmezcua",
+  "updated_at": "2026-04-02T22:14:17.923Z",
+  "updated_by": "AngelicaAmezcua"
+}
