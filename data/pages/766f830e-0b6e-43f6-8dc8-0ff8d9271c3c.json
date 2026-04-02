@@ -1,0 +1,198 @@
+{
+  "content": [
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this activity, for homework, students will choose one of the podcasts listed below that discusses female accomplishments, contributions, and social justice struggles over the years. They will then select five images that represent the podcast’s main takeaways. In class, students will present their images and explain why they chose them and how each one represents the content of the podcast. "
+            }
+          ],
+          "align": "left"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Línea Abierta: Chicana Leaders: (2006) "
+                },
+                {
+                  "type": "link",
+                  "url": "https://americanarchive.org/catalog/cpb-aacip-e6359445cad",
+                  "children": [
+                    {
+                      "text": "https://americanarchive.org/catalog/cpb-aacip-e6359445cad"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "           Listen from minute 7:00 to 58:10, where the host interviews Chicana leaders Olga Talamante and Elizabeth “Betita” Martínez."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "     2. Línea Abierta: From Victim to Leader: (2013)"
+        },
+        {
+          "type": "link",
+          "url": "https://americanarchive.org/catalog/cpb-aacip-a654dc31a04",
+          "children": [
+            {
+              "text": "https://americanarchive.org/catalog/cpb-aacip-a654dc31a04"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "          Listen from minute 6:48 to 57:52, where the host interviews domestic violence activist María Hernández and Andrea Cristina Mercado. María is the   "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "          domestic violence program coordinator at Mujeres Unidas y Activistas. Cristina is the campaign director of the National Domestic Workers Alliance. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "          [Disclaimer: This podcast includes discussions on sensitive topics, such as domestic violence. Listener discretion is advised.]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "      3. Línea Abierta: Latinas on the Rise (2015)"
+        },
+        {
+          "type": "link",
+          "url": "https://americanarchive.org/catalog/cpb-aacip-24586416334",
+          "children": [
+            {
+              "text": "https://americanarchive.org/catalog/cpb-aacip-24586416334"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "          Listen to minutes 8:25 to 12:52; 16:06 to 21:21; 21:57 to 26:00; and 33:50 to 36:19,  where the host interviews a young, newly elected Latina     "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "         councilmember, Dulce Gutiérrez, who became one of the first Latinas to win in Yakima, Washington. She was elected with 85% of the votes.  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "      4. Línea Abierta: 8013: A Day Without a Woman (2017)"
+        },
+        {
+          "type": "link",
+          "url": "https://americanarchive.org/catalog/cpb-aacip-c680e5e289b",
+          "children": [
+            {
+              "text": "https://americanarchive.org/catalog/cpb-aacip-c680e5e289b"
+            }
+          ]
+        },
+        {
+          "text": "\n          Listen from minute 0:30 to 57:30, where the host, Samuel Orozco, interviews activists and leaders who organized a one-day strike for women, A Day   "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "          Without a Woman, on International Women’s Day. These activists and leaders include Dolores Huerta, Marcela Romero Rivera, and Nestora Salgado. "
+        }
+      ]
+    }
+  ],
+  "title": "Latinas' accomplishments, contributions, and social justice struggles over the year",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "latinas-accomplishments-contributions-and",
+  "created_at": "2026-04-02T19:14:17.351Z",
+  "created_by": "AngelicaAmezcua",
+  "updated_at": "2026-04-02T19:14:17.351Z",
+  "updated_by": "AngelicaAmezcua"
+}
