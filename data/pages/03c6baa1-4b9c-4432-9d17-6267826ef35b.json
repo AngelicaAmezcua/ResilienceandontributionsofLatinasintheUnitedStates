@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What groundbreaking contributions have Latinas made in fields such as music, social movements, the economy, national organizations, and more? What content surprised you the most? "
+        }
+      ]
+    }
+  ],
+  "title": "Essential Questions",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "essential-questions",
+  "created_at": "2026-04-02T18:34:24.451Z",
+  "created_by": "AngelicaAmezcua",
+  "updated_at": "2026-04-02T18:34:24.451Z",
+  "updated_by": "AngelicaAmezcua"
+}
