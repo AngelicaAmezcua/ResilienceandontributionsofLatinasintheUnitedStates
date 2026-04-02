@@ -1,0 +1,58 @@
+{
+  "content": [
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What are the main topics discussed in Línea Abierta?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "How does each topic impact Latinas and the Latino community?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What organizations, movements, and activists have contributed significantly to advancing equity for Latinas? "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "General Discussion Questions",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "general-discussion-questions",
+  "created_at": "2026-04-02T18:39:23.505Z",
+  "created_by": "AngelicaAmezcua",
+  "updated_at": "2026-04-02T18:39:23.505Z",
+  "updated_by": "AngelicaAmezcua"
+}
