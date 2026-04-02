@@ -35,11 +35,12 @@
   "created_by": "AngelicaAmezcua",
   "title": "Latinas on the Rise (2015)",
   "slug": "latinas-on-the-rise-2015",
-  "updated_at": "2026-04-02T20:39:42.213Z",
+  "updated_at": "2026-04-02T21:39:01.277Z",
   "updated_by": "AngelicaAmezcua",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "9ee087b8-892f-4485-814f-fdeefbfd67e8"
-  }
+  },
+  "parent": "766f830e-0b6e-43f6-8dc8-0ff8d9271c3c"
 }
