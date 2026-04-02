@@ -35,11 +35,12 @@
   "created_by": "AngelicaAmezcua",
   "title": "Latina Entrepreneurs",
   "slug": "latina-entrepreneurs",
-  "updated_at": "2026-04-02T22:08:06.457Z",
+  "updated_at": "2026-04-02T22:08:16.525Z",
   "updated_by": "AngelicaAmezcua",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "d1070f7f-79fc-4c99-8b0c-55962b36e4e0"
-  }
+  },
+  "parent": "3fc5b334-6e40-42a7-8cd9-72590433375c"
 }
