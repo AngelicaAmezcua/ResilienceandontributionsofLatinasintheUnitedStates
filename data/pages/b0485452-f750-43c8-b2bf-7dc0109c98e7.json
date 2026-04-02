@@ -35,11 +35,12 @@
   "created_by": "AngelicaAmezcua",
   "title": " Latina Equal Day Pay",
   "slug": "latina-equal-day-pay",
-  "updated_at": "2026-04-02T22:15:33.731Z",
+  "updated_at": "2026-04-02T22:16:24.906Z",
   "updated_by": "AngelicaAmezcua",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "201c2455-3172-4a32-af32-11c74fb0b07f"
-  }
+  },
+  "parent": "3fc5b334-6e40-42a7-8cd9-72590433375c"
 }
