@@ -1,0 +1,30 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this set, students will listen to the radio station Radio Bilingüe, one of three pioneering Spanish-language radio stations, and focus on the diverse issues related to Latinas. Specifically, they will explore a program series titled Línea Abierta, which covers topics such as health, politics, education, immigrant rights, and more. They may need to listen to the episodes more than once. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Teaching Tips",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "teaching-tips",
+  "created_at": "2026-04-02T18:26:36.078Z",
+  "created_by": "AngelicaAmezcua",
+  "updated_at": "2026-04-02T18:26:36.078Z",
+  "updated_by": "AngelicaAmezcua"
+}
