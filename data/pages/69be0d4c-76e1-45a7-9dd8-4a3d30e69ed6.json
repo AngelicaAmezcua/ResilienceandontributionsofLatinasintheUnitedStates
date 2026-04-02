@@ -35,11 +35,12 @@
   "created_by": "AngelicaAmezcua",
   "title": "Indigenous Women Leaders",
   "slug": "indigenous-women-leaders",
-  "updated_at": "2026-04-02T21:42:11.326Z",
+  "updated_at": "2026-04-02T21:42:51.410Z",
   "updated_by": "AngelicaAmezcua",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "82ef67b3-8151-4ced-87bd-8cad71364bb1"
-  }
+  },
+  "parent": "9552e01f-6f3f-43d4-ad7f-20235ec043f7"
 }
