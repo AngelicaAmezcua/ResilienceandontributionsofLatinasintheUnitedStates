@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "d1070f7f-79fc-4c99-8b0c-55962b36e4e0",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-02T22:07:42.361Z",
   "created_by": "AngelicaAmezcua",
   "title": "Latina Entrepreneurs",
   "slug": "latina-entrepreneurs",
-  "updated_at": "2026-04-02T22:07:42.361Z",
+  "updated_at": "2026-04-02T22:08:06.457Z",
   "updated_by": "AngelicaAmezcua",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "d1070f7f-79fc-4c99-8b0c-55962b36e4e0"
   }
