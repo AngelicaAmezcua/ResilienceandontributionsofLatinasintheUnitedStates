@@ -35,11 +35,12 @@
   "created_by": "AngelicaAmezcua",
   "title": "Chicana Leaders (2006)",
   "slug": "chicana-leaders-2006-2",
-  "updated_at": "2026-04-02T20:39:22.279Z",
+  "updated_at": "2026-04-02T21:38:02.837Z",
   "updated_by": "AngelicaAmezcua",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "816d8d0f-60d9-42b8-8d5d-4dfaf59f2b77"
-  }
+  },
+  "parent": "766f830e-0b6e-43f6-8dc8-0ff8d9271c3c"
 }
