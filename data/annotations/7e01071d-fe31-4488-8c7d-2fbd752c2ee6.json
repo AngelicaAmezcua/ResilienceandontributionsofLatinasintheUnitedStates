@@ -1,5 +1,34 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 60,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Follow these links to see the reports on this historic election in Washington State: "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com/url?q=https://www.yakimaherald.com/news/local/historic-election-two-latinos-elected-to-yakima-city-council/article_be4f5ff2-82b3-11e5-9bd0-371092904c06.html&sa=D&source=docs&ust=1775844600636961&usg=AOvVaw0AIwHWlBdZxHQ0KdvK_f0N",
+              "children": [
+                {
+                  "text": "https://www.yakimaherald.com/news/local/historic-election-two-latinos-elected-to-yakima-city-council/article_be4f5ff2-82b3-11e5-9bd0-371092904c06.html"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c96bb16b-9318-4324-9d7c-add648e3f5f5"
+    }
+  ],
   "set": "Default",
   "event_id": "f8a17681-e5f1-41aa-a6f1-2313cf3a6cfa",
   "source_id": "e43edd02-53c1-4d64-97df-e2853fff1098"
