@@ -54,18 +54,21 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "numbered-list",
       "children": [
         {
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "“En este lugar, me van a cuidar aquí y yo voy a cuidar a los otros.”"
-                }
-              ]
+              "text": "“En este lugar, me van a cuidar aquí y yo voy a cuidar a los otros.”"
             }
           ]
         },
@@ -73,12 +76,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "“Hay tanto mensaje opresor que el mismo oprimido se la cree... En realidad el poder existe cuando el oprimido da ese poder, pero cuando nos damos cuenta que hay un poder colectivo y hay un poder interior, entonces nadie nos para… Juntas somos imparables.” "
-                }
-              ]
+              "text": "“Hay tanto mensaje opresor que el mismo oprimido se la cree... En realidad el poder existe cuando el oprimido da ese poder, pero cuando nos damos cuenta que hay un poder colectivo y hay un poder interior, entonces nadie nos para… Juntas somos imparables.” "
             }
           ]
         },
@@ -86,12 +84,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "“Esta magia se crea cuando uno se atreve a mirarse, se atreve a escucharse a sí misma y a la otra persona… Nosotros, como Prospera, sabemos que no proveemos poder, solamente reconocemos el poder de las mismas mujeres. Nos acompañamos y nos decimos: ‘Órale manita, aquí podemos y aquí la hacemos.’”"
-                }
-              ]
+              "text": "“Esta magia se crea cuando uno se atreve a mirarse, se atreve a escucharse a sí misma y a la otra persona… Nosotros, como Prospera, sabemos que no proveemos poder, solamente reconocemos el poder de las mismas mujeres. Nos acompañamos y nos decimos: ‘Órale manita, aquí podemos y aquí la hacemos.’”"
             }
           ]
         },
@@ -99,12 +92,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "“La familia Prospera es muy rica… Las mujeres del programa son las embajadoras; las mujeres son las que estaban creando ideas para hacer el outreach. Entonces, sí, somos cinco, pero somos más, y esa es parte de la riqueza… Estamos en el proceso de desaprender y decir: ‘Somos muy ricos, tenemos unos programas riquísimos.’”"
-                }
-              ]
+              "text": "“La familia Prospera es muy rica… Las mujeres del programa son las embajadoras; las mujeres son las que estaban creando ideas para hacer el outreach. Entonces, sí, somos cinco, pero somos más, y esa es parte de la riqueza… Estamos en el proceso de desaprender y decir: ‘Somos muy ricos, tenemos unos programas riquísimos.’”"
             }
           ]
         },
@@ -112,12 +100,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "“Hay un camino para las mujeres aquí en Prospera; no es así de: ‘vengo, tomo mi curso y me voy,’ sino de ‘tomo un curso y sigo, sigo, sigo y sigo avanzando, me quedo y me apropio de la organización.’”"
-                }
-              ]
+              "text": "“Hay un camino para las mujeres aquí en Prospera; no es así de: ‘vengo, tomo mi curso y me voy,’ sino de ‘tomo un curso y sigo, sigo, sigo y sigo avanzando, me quedo y me apropio de la organización.’”"
             }
           ]
         },
@@ -125,12 +108,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "“Una vez que tú prosperas, impactas a toda la gente, a tu familia y a tu comunidad.” "
-                }
-              ]
+              "text": "“Una vez que tú prosperas, impactas a toda la gente, a tu familia y a tu comunidad.” "
             }
           ]
         }
@@ -140,8 +118,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Part II.",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Part II."
         },
         {
           "text": " Students will continue listening to the podcast Latina Entrepreneurs ("
@@ -161,18 +148,21 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "numbered-list",
       "children": [
         {
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Anahi Rojas "
-                }
-              ]
+              "text": "Anahi Rojas "
             }
           ]
         },
@@ -180,12 +170,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Sonia Ordoñez "
-                }
-              ]
+              "text": "Sonia Ordoñez "
             }
           ]
         },
@@ -193,30 +178,25 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Concha Saucedo-Martínez"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Summary:"
-                }
-              ]
+              "text": "Concha Saucedo-Martínez"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Summary:"
         }
       ]
     },
@@ -269,42 +249,47 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "numbered-list",
       "children": [
         {
-          "text": "1. What injustices have Latinas faced regarding their pay, and how has it affected them, their families, and communities?"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What injustices have Latinas faced regarding their pay, and how has it affected them, their families, and communities?"
+            }
+          ]
+        },
         {
-          "text": "2. Why is Latina Equal Pay Day important?"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Why is Latina Equal Pay Day important?"
+            }
+          ]
+        },
         {
-          "text": "3. What have Latinas and organizations done to fight for equal pay for Latinas? "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What have Latinas and organizations done to fight for equal pay for Latinas? "
+            }
+          ]
+        },
         {
-          "text": "4. What can Latinas do to find out if they are being paid less than their colleagues?"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What can Latinas do to find out if they are being paid less than their colleagues?"
+            }
+          ]
+        },
         {
-          "text": "5. What groups of Latinas are the most affected by not receiving equal pay? Explain your answer: why are they the most affected?"
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What groups of Latinas are the most affected by not receiving equal pay? Explain your answer: why are they the most affected?"
+            }
+          ]
         }
       ]
     },
@@ -349,7 +334,7 @@
   "slug": "latinas-economic-contribution",
   "created_at": "2026-04-02T22:04:45.938Z",
   "created_by": "AngelicaAmezcua",
-  "updated_at": "2026-04-02T22:24:24.003Z",
+  "updated_at": "2026-04-11T06:40:39.401Z",
   "updated_by": "AngelicaAmezcua",
   "parent": "81af6c97-e1ef-4628-9065-3fd8e6440bd6"
 }
