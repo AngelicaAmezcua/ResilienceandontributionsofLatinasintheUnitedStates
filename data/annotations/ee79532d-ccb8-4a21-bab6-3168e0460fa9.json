@@ -1,5 +1,34 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 420,
+      "end_time": 3490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth \"Betita\" Martínez was a Chicana activist, writer, and educator known for her lifelong work in civil rights, racial justice, and social movements in the United States. She particiapted in the Black Freedom Movement, supported Chicano/a activism, and helped found organizations that promoted community empowerment and policitical education. For more information follow this link "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com/url?q=https://library.ucdavis.edu/exhibit/betita-taught-us-we-are-the-revolution/&sa=D&source=docs&ust=1775844600645324&usg=AOvVaw00jUJ2eLl7_O_NyeH3hJSi",
+              "children": [
+                {
+                  "text": "https://library.ucdavis.edu/exhibit/betita-taught-us-we-are-the-revolution/"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d9078d60-592f-4de9-83e7-25668c107213"
+    }
+  ],
   "set": "Default",
   "event_id": "05e17482-ac69-4a48-b98c-12a12b85afc0",
   "source_id": "58035e7e-6e63-47dc-a4ec-f37180291c95"
