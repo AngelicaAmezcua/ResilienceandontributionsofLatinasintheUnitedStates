@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "f6ebf0f8-0ce4-4953-88d9-c1dd41eee871": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-24586416334/download",
+      "duration": 0,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-11T07:35:22.450Z",
+  "created_by": "AngelicaAmezcua",
+  "label": "Línea Abierta; 7658; Latinas on the Rise",
+  "updated_at": "2026-04-11T07:35:22.450Z",
+  "updated_by": "AngelicaAmezcua",
+  "rights_statement": ""
+}
