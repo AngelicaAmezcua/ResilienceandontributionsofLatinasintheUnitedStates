@@ -7,7 +7,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "In this activity, for homework, students will choose one of the podcasts listed below that discusses female accomplishments, contributions, and social justice struggles over the years. They will then select five images that represent the podcast’s main takeaways. In class, students will present their images and explain why they chose them and how each one represents the content of the podcast. "
+              "text": "In this activity, for homework, students will choose one of the podcasts listed below that discusses female accomplishments, contributions, and social justice struggles over the years. They will then select five images that represent the podcast’s main takeaways. In class, students will present their images and explain why they chose them and how each one represents the content of the podcast. Línea Abierta: Chicana Leaders: (2006) "
+            },
+            {
+              "type": "link",
+              "url": "https://americanarchive.org/catalog/cpb-aacip-e6359445cad",
+              "children": [
+                {
+                  "text": "https://americanarchive.org/catalog/cpb-aacip-e6359445cad"
+                }
+              ]
+            },
+            {
+              "text": ""
             }
           ],
           "align": "left"
@@ -21,34 +33,9 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Línea Abierta: Chicana Leaders: (2006) "
-                },
-                {
-                  "type": "link",
-                  "url": "https://americanarchive.org/catalog/cpb-aacip-e6359445cad",
-                  "children": [
-                    {
-                      "text": "https://americanarchive.org/catalog/cpb-aacip-e6359445cad"
-                    }
-                  ]
-                },
-                {
-                  "text": ""
-                }
-              ]
+              "text": "Listen from minute 7:00 to 58:10, where the host interviews Chicana leaders Olga Talamante and Elizabeth “Betita” Martínez."
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "           Listen from minute 7:00 to 58:10, where the host interviews Chicana leaders Olga Talamante and Elizabeth “Betita” Martínez."
         }
       ]
     },
@@ -309,7 +296,7 @@
   "slug": "latinas-accomplishments-contributions-and",
   "created_at": "2026-04-02T19:14:17.351Z",
   "created_by": "AngelicaAmezcua",
-  "updated_at": "2026-04-11T08:41:19.594Z",
+  "updated_at": "2026-04-11T09:02:32.288Z",
   "updated_by": "AngelicaAmezcua",
   "parent": "81af6c97-e1ef-4628-9065-3fd8e6440bd6"
 }
