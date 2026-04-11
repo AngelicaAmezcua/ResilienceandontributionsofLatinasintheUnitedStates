@@ -1,5 +1,34 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 30,
+      "end_time": 3450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A Day Without a Woman\" took place on March 8, 2017 and it took place across hundreds of cities in the United States and worldwide. See this link for the report on this mass protest: "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com/url?q=https://www.npr.org/sections/thetwo-way/2017/03/08/519161040/female-workers-asked-to-join-in-a-day-without-a-woman-protests&sa=D&source=docs&ust=1775844600637840&usg=AOvVaw3FP15icEn4A769O9CP4Ra-",
+              "children": [
+                {
+                  "text": "https://www.npr.org/sections/thetwo-way/2017/03/08/519161040/female-workers-asked-to-join-in-a-day-without-a-woman-protests"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ffc482b-3b20-493d-b825-7e554bfc3cd6"
+    }
+  ],
   "set": "Default",
   "event_id": "f8a17681-e5f1-41aa-a6f1-2313cf3a6cfa",
   "source_id": "e43edd02-53c1-4d64-97df-e2853fff1098"
