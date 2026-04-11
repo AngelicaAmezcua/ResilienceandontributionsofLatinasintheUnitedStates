@@ -1,5 +1,38 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 505,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Follow these links to see the reports on this historic election in Washington State:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "https://magazine.washington.edu/feature/dulce/#gsc.tab=0"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "https://youtu.be/XOvnvSycbZo?si=093V2JDoXdue1hoz"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "368510c6-9a1a-4da2-9083-738fcbdb5648"
+    }
+  ],
   "set": "Default",
   "event_id": "78fe41f2-157b-4694-b7fe-aa5bc03ae0e4",
   "source_id": "f6ebf0f8-0ce4-4953-88d9-c1dd41eee871"
