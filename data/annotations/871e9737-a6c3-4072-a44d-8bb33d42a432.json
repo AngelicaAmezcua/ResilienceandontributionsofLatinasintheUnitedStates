@@ -1,5 +1,34 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 3540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cumbre means the peak or a high point in achievements. This conference, Cumbre de la Mujer Latina, aims for participants to partake in a transformative experience where self-care is at the heart of deep conversations, shared experiences, and inspiring moments. This conference celebrates Latina women's' strengths, stories, and power, while also proving a space to network, learn, and build community. Follow this link for more information: "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com/url?q=https://spotlightmontreal.ca/es/cumbre-de-la-mujer-latina-en-montreal-se-construye-un-legado/&sa=D&source=docs&ust=1775844600640245&usg=AOvVaw0jgYHkkf7V0xPEXcJrEMI9",
+              "children": [
+                {
+                  "text": "https://spotlightmontreal.ca/es/cumbre-de-la-mujer-latina-en-montreal-se-construye-un-legado/"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9824deb9-e49a-4689-8096-818cafabcfba"
+    }
+  ],
   "set": "Default",
   "event_id": "c5bea451-d03d-42c7-9b0b-745c65a69304",
   "source_id": "9686ccaf-46c3-474e-a1e3-e4cf1354f036"
