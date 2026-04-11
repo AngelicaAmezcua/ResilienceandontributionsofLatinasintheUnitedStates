@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "4c0bc938-e026-4d4e-87b6-94415ae4d669": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-a654dc31a04/download",
+      "duration": 3545.992,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-11T06:53:04.619Z",
+  "created_by": "AngelicaAmezcua",
+  "label": "Línea Abierta; 7093; From Victim to Leader",
+  "updated_at": "2026-04-11T06:53:04.619Z",
+  "updated_by": "AngelicaAmezcua",
+  "rights_statement": ""
+}
