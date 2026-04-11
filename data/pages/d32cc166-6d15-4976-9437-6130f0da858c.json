@@ -24,6 +24,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "In 2025, Línea Abierta celebrates 30 years on the air with a special edition show titled Thirty Years, Thirty Voices, featuring 30 civil rights leaders, activists, and influential figures such as Dolores Huerta and José Ángel Gutiérrez (De La Cruz, 2017; Radio Bilingüe)."
         }
       ]
@@ -37,18 +45,21 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "bulleted-list",
       "children": [
         {
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The social injustices that Latinas face in your city and state."
-                }
-              ]
+              "text": "The social injustices that Latinas face in your city and state."
             }
           ]
         },
@@ -56,12 +67,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The accomplishments and contributions of Latinas in your city and state. "
-                }
-              ]
+              "text": "The accomplishments and contributions of Latinas in your city and state. "
             }
           ]
         },
@@ -69,12 +75,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The Latinas each student admires, whether a family member, a community activist, artist, or someone else.  "
-                }
-              ]
+              "text": "The Latinas each student admires, whether a family member, a community activist, artist, or someone else.  "
             }
           ]
         },
@@ -82,12 +83,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "What organizations work to promote equity for Latinas in your city and state? "
-                }
-              ]
+              "text": "What organizations work to promote equity for Latinas in your city and state? "
             }
           ]
         }
@@ -110,7 +106,7 @@
   "slug": "background-information",
   "created_at": "2026-04-02T18:32:15.254Z",
   "created_by": "AngelicaAmezcua",
-  "updated_at": "2026-04-02T18:32:34.470Z",
+  "updated_at": "2026-04-11T08:59:10.842Z",
   "updated_by": "AngelicaAmezcua",
   "parent": "c02fe694-5a67-41d8-9ade-db303754b93b"
 }
