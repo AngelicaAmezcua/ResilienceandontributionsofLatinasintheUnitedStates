@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 408,
+      "end_time": 3472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mujeres Unidas y Activista (MAU) is a grassroots organization founded in California that supports immigrant and Latina women through leadership development, community organizing, and mutual support. The group works to empower women by providing education, advocacy training, and resources related to workers' rights, immigration, and economic justices. Follow the link for more information about this organiztion: https://mujeresunidas.net/en/"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4acde258-5049-4997-8585-8c49e8e0f2ad"
+    }
+  ],
   "set": "Default",
   "event_id": "12661a3c-9e32-41a2-9af7-f65ee8791d2a",
   "source_id": "4c0bc938-e026-4d4e-87b6-94415ae4d669"
