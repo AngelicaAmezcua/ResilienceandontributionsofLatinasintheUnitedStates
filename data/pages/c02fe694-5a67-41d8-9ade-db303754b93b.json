@@ -20,7 +20,23 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Dolores Huerta, a labor leader and activist, was one of the founders of the National Farm Workers Association. She led one of the most historic agricultural boycotts, which contributed to the establishment of the California Agricultural Labor Relations Act of 1975, allowing farmworkers to unionize and demand better wages and working conditions. María Elena Salinas was the longest-running female TV news anchor and the first Latina to earn a Lifetime Achievement Emmy. Known as the “Voice of Hispanic America,” she worked for a Spanish-language network. Leticia Márquez-Magaña, a Mexican American biochemist and professor, founded the Health Equity Research Lab and leads efforts to foster health equity and STEM education among underrepresented groups. These are just a few examples of the many achievements of Latinas throughout U.S. history (Hernandez & Pak, 2024)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -49,6 +65,6 @@
   "slug": "introduction-and-context",
   "created_at": "2026-04-02T18:23:28.770Z",
   "created_by": "AngelicaAmezcua",
-  "updated_at": "2026-04-02T18:23:28.770Z",
+  "updated_at": "2026-04-11T08:57:57.836Z",
   "updated_by": "AngelicaAmezcua"
 }
