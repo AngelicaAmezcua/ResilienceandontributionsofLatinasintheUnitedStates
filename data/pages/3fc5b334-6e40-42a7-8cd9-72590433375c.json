@@ -62,6 +62,29 @@
       ]
     },
     {
+      "uuid": "c5bea451-d03d-42c7-9b0b-745c65a69304",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "numbered-list",
       "children": [
         {
@@ -216,7 +239,7 @@
           "bold": true
         },
         {
-          "text": " Divide students into groups of three and ask them to listen from minute 1:00 to 57:50 of the episode Latina Equal Day Pay, where the host Chelis López interviews activists Claudia Tristan (immigrant campaign director of Moms Rising) and Mónica Ramírez (founder and president of Justice For Migrant Women), available at "
+          "text": " Divide students into groups of three and ask them to listen from minute 1:00 to 57:50 of the episode Latina Equal Pay Day, where the host Chelis López interviews activists Claudia Tristan (immigrant campaign director of Moms Rising) and Mónica Ramírez (founder and president of Justice For Migrant Women), available at "
         },
         {
           "type": "link",
@@ -236,7 +259,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Details of Latina Equal Pay Day"
+          "text": ""
         }
       ]
     },
@@ -245,6 +268,45 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "44f9b759-47e6-497f-b26f-fe4a8d78b759",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Details of Latina Equal Pay Day"
         }
       ]
     },
@@ -334,7 +396,7 @@
   "slug": "latinas-economic-contribution",
   "created_at": "2026-04-02T22:04:45.938Z",
   "created_by": "AngelicaAmezcua",
-  "updated_at": "2026-04-11T06:40:39.401Z",
+  "updated_at": "2026-04-11T08:52:23.858Z",
   "updated_by": "AngelicaAmezcua",
   "parent": "81af6c97-e1ef-4628-9065-3fd8e6440bd6"
 }
