@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "9686ccaf-46c3-474e-a1e3-e4cf1354f036": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-e15cd8b87cb/download",
+      "duration": 0,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-11T07:02:14.657Z",
+  "created_by": "AngelicaAmezcua",
+  "label": "Línea Abierta; 8753; Latina Entrepreneurs",
+  "updated_at": "2026-04-11T07:02:14.657Z",
+  "updated_by": "AngelicaAmezcua",
+  "rights_statement": ""
+}
