@@ -27,6 +27,34 @@
       ],
       "tags": [],
       "uuid": "243c292b-1a00-4b30-a322-02678748fbb3"
+    },
+    {
+      "start_time": 953,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laura Garciacano Sobrino was one of the first professional female mariachi musicians in the United States and made important contributions as a performer, educator, researcher, and organizer. For more information follow this link: "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com/url?q=https://mariachispectacular.com/2019-laura-sobrino/&sa=D&source=docs&ust=1775844600643981&usg=AOvVaw2J7POmu18mWmL5QKQPenwX",
+              "children": [
+                {
+                  "text": "https://mariachispectacular.com/2019-laura-sobrino/"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4a9e6a52-730b-48d1-ac3e-d2eb04074363"
     }
   ],
   "set": "Default",
