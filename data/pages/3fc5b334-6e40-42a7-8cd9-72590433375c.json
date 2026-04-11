@@ -10,6 +10,22 @@
               "text": "As stated in the introduction, between 2010 and 2021, Latinas’ economic contribution grew by 51%. This growth is due, in part, to financial literacy opportunities for Latinas, such as La Cumbre conference and advocacy efforts like Latina Equal Pay Day. These initiatives are crucial in reducing the pay gap for Latinas. According to a U.S. Senate report (2023), “Latinas are paid just 57 cents for every dollar paid to White, non-Hispanic men, and Latinas will not achieve equal pay at the current rate for another 432 years” (p.748). "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -396,7 +412,7 @@
   "slug": "latinas-economic-contribution",
   "created_at": "2026-04-02T22:04:45.938Z",
   "created_by": "AngelicaAmezcua",
-  "updated_at": "2026-04-11T08:52:23.858Z",
+  "updated_at": "2026-04-11T10:14:32.078Z",
   "updated_by": "AngelicaAmezcua",
   "parent": "81af6c97-e1ef-4628-9065-3fd8e6440bd6"
 }
