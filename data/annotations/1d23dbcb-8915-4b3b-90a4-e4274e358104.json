@@ -1,5 +1,34 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 60,
+      "end_time": 3470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "October 8th is designated as \"Latina Equal Pay Day\" to observe the pay gap between Latinas and White, non Hispanic men. Follow this link for Congress's recognition of the significance of equal pay and the disparity in wages paid to Latina women: "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com/url?q=https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/56/text&sa=D&source=docs&ust=1775844600636076&usg=AOvVaw2pbV1xoMFbw3gETHv1fucm",
+              "children": [
+                {
+                  "text": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/56/text"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "809004c0-e16d-4b8e-9fb6-1872d70f4775"
+    }
+  ],
   "set": "Default",
   "event_id": "44f9b759-47e6-497f-b26f-fe4a8d78b759",
   "source_id": "b6946ff4-e417-4882-9456-c0778c961537"
