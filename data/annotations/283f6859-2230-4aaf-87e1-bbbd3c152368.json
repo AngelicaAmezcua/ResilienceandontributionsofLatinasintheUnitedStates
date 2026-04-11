@@ -1,5 +1,34 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 90,
+      "end_time": 2360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Follow this link to a timeline that explains the key moments that led to the creation of the Frente Indígena de Organizaciones and the key accomplishments they achieved up to the year 2018: "
+            },
+            {
+              "type": "link",
+              "url": "https://www.google.com/url?q=https://mukurtu.ss.ucla.edu/community/fiob-frente-ind%25C3%25ADgena-de-organizaciones-binacionales&sa=D&source=docs&ust=1775844600638838&usg=AOvVaw2op-syUA3_n-2DVmbDK7Qd",
+              "children": [
+                {
+                  "text": "https://mukurtu.ss.ucla.edu/community/fiob-frente-indígena-de-organizaciones-binacionales"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90356087-0eec-45b5-8da3-c6450f4a52de"
+    }
+  ],
   "set": "Default",
   "event_id": "57cd1405-d120-4e03-a369-f9f7e30fe05d",
   "source_id": "94da2c84-9f1a-440f-a974-3d1d954ea7ae"
