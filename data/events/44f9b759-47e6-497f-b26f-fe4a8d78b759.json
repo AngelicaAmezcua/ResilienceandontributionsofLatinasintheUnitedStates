@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "b6946ff4-e417-4882-9456-c0778c961537": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-b6feb67dbdf/download",
+      "duration": 3549.048,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-11T06:41:33.432Z",
+  "created_by": "AngelicaAmezcua",
+  "label": "Línea Abierta; 9418; Latina Equal Day Pay",
+  "updated_at": "2026-04-11T06:41:33.432Z",
+  "updated_by": "AngelicaAmezcua",
+  "rights_statement": ""
+}
