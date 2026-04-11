@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "58035e7e-6e63-47dc-a4ec-f37180291c95": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-e6359445cad/download",
+      "duration": 0,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-04-11T06:50:23.201Z",
+  "created_by": "AngelicaAmezcua",
+  "label": "Línea Abierta; 4749; Chicana Leaders",
+  "updated_at": "2026-04-11T06:50:23.201Z",
+  "updated_by": "AngelicaAmezcua",
+  "rights_statement": ""
+}
